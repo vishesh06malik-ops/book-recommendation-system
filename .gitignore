@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets — never commit real API keys
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Personal data and logs created while using the app
+user_data/
+logs/
+*.corrupt-*
+*.tmp
+
+# Raw downloads (re-created by scripts/prepare_dataset.py); data/books.csv IS committed
+data/raw/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/

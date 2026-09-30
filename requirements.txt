@@ -1,0 +1,13 @@
+# Core application: only the Python standard library is required.
+# The packages below enable optional features and testing.
+
+# Optional: live search in Google Books (src/api/google_books.py)
+requests>=2.28
+# Optional: reads GOOGLE_BOOKS_API_KEY from a .env file
+python-dotenv>=1.0
+# Optional: advanced TF-IDF + cosine similarity recommender
+scikit-learn>=1.2
+# Optional: web interface (app.py)
+streamlit>=1.30
+# Testing
+pytest>=7.0

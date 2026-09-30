@@ -1,0 +1,15 @@
+id,isbn,title,authors,categories,keywords,published_year,language,rating,rating_count,cover_url,source
+1,0439023483,Dragon Realm (Realm #1),Alice Stone,Fantasy|Young Adult,magic|dragons|adventure,2001,eng,4.2,5000,,test-fixture
+2,,Dragon Realm Returns (Realm #2),Alice Stone,Fantasy|Young Adult,magic|dragons|quest,2003,eng,4.3,3000,,test-fixture
+3,,Wizard School,Ben Hart,Fantasy,magic|school|friendship,2010,eng,4.0,8000,,test-fixture
+4,,Cold Case Files,Carla Reyes,Mystery & Thriller,crime|detective|police,2015,eng,3.9,2000,,test-fixture
+5,,The Quiet Detective,Carla Reyes,Mystery & Thriller,detective|crime|small town,2017,eng,4.1,1500,,test-fixture
+6,,Small Steps Big Change,Dan Moore,Self Help|Psychology,habits|productivity|behavior,2018,eng,4.5,9000,,test-fixture
+7,,Mind Patterns,Eve Chen,Psychology|Non-fiction,behavior|brain|habits,2012,eng,4.0,4000,,test-fixture
+8,,Stars Beyond,Finn Gray,Science Fiction,space|aliens|future,1999,eng,3.8,700,,test-fixture
+9,,Love in Paris,Gina Rossi,Romance,love|paris|contemporary,2019,fre,3.5,600,,test-fixture
+10,,Untagged Book,,,,,,,,,test-fixture
+11,,Ancient Epic,Homer Test,Classics|Poetry,epic|war|gods,-700,grc,3.9,300,,test-fixture
+1,,Duplicate Id Row,Someone Else,Romance,love,2000,eng,3.0,10,,test-fixture
+,,Row Without Id,Nobody,Fantasy,magic,2000,eng,3.0,10,,test-fixture
+12,,Bad Numbers Book,Ivy Test,Fantasy,magic,not-a-year,eng,seven,many,,test-fixture
